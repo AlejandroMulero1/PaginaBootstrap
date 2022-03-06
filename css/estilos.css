@@ -61,6 +61,7 @@ section {
     background-size: 100% 100%;
 }
 .jugador p {
+    margin:20px;
     background-color: white;
     text-align: center;
 }
@@ -146,6 +147,7 @@ footer {
     background-color: #cc99ff;
     min-height: 2em;
 }
+
 footer a{
     color:black
 }
